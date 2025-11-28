@@ -11,6 +11,8 @@ import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
 
+//Controller to handle API requests related to pharmacy benefits
+
 @RestController
 @RequestMapping("/api/benefits")
 @RequiredArgsConstructor
